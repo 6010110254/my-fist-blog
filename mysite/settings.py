@@ -25,7 +25,7 @@ SECRET_KEY = '9i3t@$ux0p068wc=anvziebn9fzk59lop74x6=l8ab_hxmf!wn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost-fadel-hayeemareh-1.paiza-user-free.cloud']
+ALLOWED_HOSTS = ['127.0.0.1','localhost-6010110254labdjango.paiza-user-free.cloud']
 
 
 # Application definition
